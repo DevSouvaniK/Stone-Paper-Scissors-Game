@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+h1{
+    background-color: black;
+    color: #fff;
+    height: 5rem;
+    line-height: 5rem;
+    
+}
+
+.choice{
+    height: 100px;
+    width: 100px;
+    
+}
+
+img{
+    height: 100px;
+    width: 100px;
+    object-fit: cover;
+    border-radius: 50%;
+    
+}
+
+.choices{
+    display: flex;
+    gap: 2rem;
+    padding: 1rem;
+}
+

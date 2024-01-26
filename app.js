@@ -1,5 +1,4 @@
 // Make two variables for user & computer
-
 let userScore = 0;
 let compScore = 0;
 
@@ -50,7 +49,7 @@ choices.forEach((choice) => {
 const drawGame = () => {
     console.log("Game was draw.");
     msg.innerText = "Game was draw, play again";
-    msg.style.backgroundColor = "#ffbe0b";
+    msg.style.backgroundColor = "#fca311";
 }
 
 // show message

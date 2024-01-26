@@ -61,6 +61,8 @@ img{
 
 .msg-container{
     margin-top: 4rem;
+    text-align: center;
+    justify-content: center;
 }
 
 #msg{
